@@ -2,10 +2,6 @@
   "values":[
     "fnar_hearty:effect/detect_and_apply",
     "fnar_hearty:recipe/tag_shrooms_by_count",
-    "fnar_hearty:recipe/craft_hearty_mushroom_stew_5",
-    "fnar_hearty:recipe/craft_hearty_mushroom_stew_4",
-    "fnar_hearty:recipe/craft_hearty_mushroom_stew_3",
-    "fnar_hearty:recipe/craft_hearty_mushroom_stew_2",
-    "fnar_hearty:recipe/craft_hearty_mushroom_stew_1"
+    "fnar_hearty:recipe/craft_hearty_mushroom_stew"
   ]
 }
